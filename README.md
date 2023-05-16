@@ -19,6 +19,8 @@ RV[request verbs] --> Delete --> D(delete data)
 ```
 In order to retrieving data from Aflow database, all we need is GET. 
 
+This notebook shows the usage with python code. 
+
 [1] Taylor, R.H., et al., A RESTful API for exchanging materials data in the AFLOWLIB.org consortium. Computational Materials Science, 2014. 93: p. 178-192. https://doi.org/10.1016/j.commatsci.2014.05.014
 
 [2] https://www.makeuseof.com/what-is-rest-api/
