@@ -1,6 +1,8 @@
 # AflowRestAPI
 This repository shows the usage of Aflow Rest API<sup>[1]</sup> with python examples. If you are a tyro with REST API, here is everything you need to know.
 
+More explanations about the code please go to this video: <a >[**How to download data from aflow REST API?**](https://www.youtube.com/watch?v=eJ5tyqTvn4E)</a>
+
 The very first thing we should know is Aflow Rest API is a kind of rest API (Representational State Transfer Application Programing Interface), which accesses data through a string of characters that identify a specific resources called **URIs** (Uniform Resource Identifiers). **URL** (Uniform resource locator) is a kind of URI<sup>[2]</sup>, which allows us to simply access data by inputting a specific website on a web browser.
 
 ```mermaid
